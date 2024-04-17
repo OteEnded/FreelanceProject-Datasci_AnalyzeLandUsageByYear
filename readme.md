@@ -10,7 +10,7 @@ The dataset used for this analysis consists of land usage data collected annuall
 
 - [OteEnded](https://github.com/OteEnded) [Project Lead - Data cleaning, Data visualization]
 - [xMickeys](https://github.com/xMickeyS) [Data scientist - Data analysis, Data visualization]
-- [Wr3nch_ren](https://github.com/Wr3nch-ren) [Data cleaning]
+- [Wr3nch_ren](https://github.com/Wr3nch-ren) [Assistant - Data cleaning]
 
 ## Contact
 
@@ -18,7 +18,7 @@ For any questions or inquiries, please contact ratnaritjumnong@gmail.com.
 
 ---
 
-หมายเหตุ. ข้อมูลปี 63 มีการ update แก้ใขเพิ่มเติม ไม่ตรงกับข้อมูลที่สรุปด้านล่าง
+***หมายเหตุ.*** *ข้อมูลปี 63 มีการ update แก้ใขเพิ่มเติม ไม่ตรงกับข้อมูลที่สรุปด้านล่าง*
 
 # รายงานผลรายการที่ดินเทศบาลเมืองลำพูน จังหวัดลำพูน
 
